@@ -13,18 +13,17 @@ print(type(gpa))
 print(type(student))
 
 
+student=str(student)
+print(student)
+print(type(student))
 
-#student=str(student)
-#print(student)
-#print(type(student))
+gpa=int(gpa)
+print(gpa)
+print(type(gpa))
 
-#gpa=int(gpa)
-#print(gpa)
-#print(type(gpa))
-
-#age=float(age)
-#print(age)
-#print(type(age))
+age=float(age)
+print(age)
+print(type(age))
 
 #隱式型別轉換
 x=10
