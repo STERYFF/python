@@ -49,7 +49,7 @@ print("我的電話",phone_number)
 
 username=input("請輸入你的使用者名稱:")
 
-if username.isalnum():
+if username.isalpha():
     print("全部都是英文字")
 else:
     print('包含其他字元')
