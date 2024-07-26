@@ -27,7 +27,7 @@ elif age>=18:
 elif age<0:
     print('你還沒出生')
 else:
-    print('你要買18歲')
+    print('你要滿18歲')
 
 #練習{計算機}
 

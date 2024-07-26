@@ -1,4 +1,4 @@
-import random#引入函式庫
+import random#引入模組
 
 player=None
 computer=None
